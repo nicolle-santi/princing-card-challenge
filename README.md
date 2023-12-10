@@ -1,2 +1,2 @@
-# princing-card-challenge
-Princing card code challenge from front-end bootcamp
+# pricing-card-challenge
+Pricing card code challenge from front-end bootcamp
